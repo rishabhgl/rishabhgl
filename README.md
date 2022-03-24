@@ -6,6 +6,12 @@
 
 <br />
 
+<img align="right" src="https://komarev.com/ghpvc/?username=rishabhgl&color=orange" />
+
+
+<br />
+<br />
+
 #### Thanks for stopping by! My name is Rishabh Goyal, and I am a freshman studing Computer Engineering at [Thapar Institute of Engineering and Technology, Patiala](https://www.thapar.edu/). I may be new to the world of coding, but I am looking forward to learning and collaborating with everyone!
 
 <br />
