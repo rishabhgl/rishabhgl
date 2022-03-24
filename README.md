@@ -2,7 +2,7 @@
 
 <br />
 
-#### Thanks for stopping by! My name is Rishabh Goyal, and I am a freshman studing Computer Engineering at [Thapar Institute of Engineering and Technology, Patiala](https://www.thapar.edu/).I may be new to the world of coding, but I am looking forward to learning and collaborating with everyone!
+#### Thanks for stopping by! My name is Rishabh Goyal, and I am a freshman studing Computer Engineering at [Thapar Institute of Engineering and Technology, Patiala](https://www.thapar.edu/). I may be new to the world of coding, but I am looking forward to learning and collaborating with everyone!
 
 <br />
 <br />
@@ -32,4 +32,20 @@
 [![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/rishabh-goyal-57278b229/)
 <a href="mailto:rgoyal2_be21@thapar.edu">
         <img src="./images/gmail.png" width="70" />
+</a>
+
+<br />
+<br />
+
+### An overview of my work on GitHub -
+
+<br />
+
+[![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhgl&show_icons=true&theme=gruvbox)](https://github.com/api/rishabhgl/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhgl&show_icons=true&theme=gruvbox)](https://github.com/\rishabhgl/github-readme-stats)
+
+
 
