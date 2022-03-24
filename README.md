@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="./images/banner.jpg" alt="Banner" width="2000">
+<img src="./images/banner.jpg" alt="Banner" width="1000">
 
 <br />
 
