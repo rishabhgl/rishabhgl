@@ -2,7 +2,7 @@
 
 <br />
 
-![Banner](./images/banner.jpg)
+<img src="./images/banner.jpg" alt="Banner" width="2000">
 
 <br />
 
