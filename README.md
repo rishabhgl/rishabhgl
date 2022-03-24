@@ -25,4 +25,11 @@
 <img src="./images/c++.png" alt="C++" width="48" />
 <img src="./images/react.png" alt="C++" width="80" />
 
+<br />
+<br />
+
+### You can contact me through 📝-
+[![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/rishabh-goyal-57278b229/)
+<a href="mailto:rgoyal2_be21@thapar.edu">
+        <img src="./images/gmail.png" width="70" />
 
