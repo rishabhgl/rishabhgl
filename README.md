@@ -12,15 +12,15 @@
 <br />
 <br />
 
-#### Thanks for stopping by! My name is Rishabh Goyal, and I am a sophomore student studying Computer Engineering at [Thapar Institute of Engineering and Technology, Patiala](https://www.thapar.edu/).I am looking forward to learning and collaborating with everyone!
+#### Thanks for stopping by! My name is Rishabh Goyal, and I am a pre-final student studying Computer Engineering at [Thapar Institute of Engineering and Technology, Patiala](https://www.thapar.edu/).I am looking forward to learning and collaborating with everyone!
 
 <br />
 <br />
 
 ### A brief introduction about me -
-* 🌎I am currently exploring the vast world of Web and App Development
-* 👨🏽‍💻Also, I am currently learning ReactJs and Java
-* 🪥Brushing up my C++ skills
+* 🌎I am currently exploring the vast world of Web Development and Machine Learning
+* 👨🏽‍💻Working with technologies like ReactJs and Python
+* 🪥Brushing up my problem solving skills through DSA practice in C++
 * 📕I am an avid reader
 * 🎨I have been drawing all my life!
 
@@ -40,7 +40,7 @@
 
 ### You can contact me through 📝-
 [![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/rishabh-goyal-57278b229/)
-<a href="mailto:rgoyal2_be21@thapar.edu">
+<a href="mailto:rishabhgl098@gmail.com">
         <img src="./images/gmail.png" width="70" />
 </a>
 
