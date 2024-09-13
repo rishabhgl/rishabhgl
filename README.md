@@ -12,7 +12,7 @@
 <br />
 <br />
 
-#### Thanks for stopping by! My name is Rishabh Goyal, and I am a pre-final student studying Computer Engineering at [Thapar Institute of Engineering and Technology, Patiala](https://www.thapar.edu/).I am looking forward to learning and collaborating with everyone!
+#### Thanks for stopping by! My name is Rishabh Goyal, and I am a final student studying Computer Engineering at [Thapar Institute of Engineering and Technology, Patiala](https://www.thapar.edu/).I am looking forward to learning and collaborating with everyone!
 
 <br />
 <br />
